@@ -17,7 +17,7 @@ SECRET_KEY = 'django-insecure-change-this-key'
 
 DEBUG = False   # set False in production
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['Rissy.pythonanywhere.com']
 
 
 # --------------------------------------------------
